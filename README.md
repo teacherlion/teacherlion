@@ -47,7 +47,16 @@
 <br/>
 
 <div align="center">
-  <h3>🎧 O que tenho escutado 🔊</h3>
+  <h3>🎧 Listening 😁🔊</h3>
+  
+  <!-- O que estou ouvindo agora (Player) -->
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rcu5vaxbcs5nggcntjd6q2r3hm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false" alt="Spotify Current" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Músicas Recentes (Lista) -->
   <a href="https://open.spotify.com/user/31rcu5vaxbcs5nggcntjd6q2r3hm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rcu5vaxbcs5nggcntjd6q2r3hm&count=4" alt="Spotify Recently Played" />
   </a>
