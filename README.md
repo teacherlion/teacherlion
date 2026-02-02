@@ -55,7 +55,7 @@ Infra, Hosting & IDE
 
 <div align="center">
 <h3>🎧 O que estou ouvindo enquanto codo</h3>
-<a href="https://www.google.com/search?q=https://spotify.com/user/31rcu5vaxbcs5nggcntjd6q2r3hm">
+<a href="https://www.google.com/search?q=https://open.spotify.com/user/31rcu5vaxbcs5nggcntjd6q2r3hm">
 <img src="https://www.google.com/search?q=https://spotify-recently-played-readme.vercel.app/api%3Fuser%3D31rcu5vaxbcs5nggcntjd6q2r3hm%26count%3D4" alt="Spotify Recently Played" />
 </a>
 </div>
