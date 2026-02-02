@@ -14,24 +14,21 @@
 
 ### 🛠️ Tech Stack & Ferramentas
 
-**Frontend & Frameworks**
-<br/>
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<div align="center">
+  
+  <!-- Ícones Principais (Skill Icons) -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,vue,nuxtjs,html,supabase,postgres,vercel,netlify,linux" />
+  </a>
+  
+  <br/><br/>
 
-**Backend, Dados & Automação**
-<br/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+  <!-- Ferramentas de Especialização (Badges) -->
+  <!-- Mantivemos estes aqui pois o skillicons não possui ícones para eles ainda -->
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity_IDE-000?style=for-the-badge&color=blue" />
 
-**Infra, Hosting & IDE**
-<br/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Antigravity_IDE-000?style=for-the-badge&color=blue" />
+</div>
 
 <br/>
 <hr/>
@@ -47,7 +44,7 @@
 <br/>
 
 <div align="center">
-  <h3>🎧 Listening 😁🔊</h3>
+  <h3>🎧 Vibe de Código</h3>
   
   <!-- O que estou ouvindo agora (Player) -->
   <a href="https://github.com/kittinan/spotify-github-profile">
