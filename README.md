@@ -46,7 +46,7 @@
 
 <!-- SPOTIFY SECTION -->
 <div align="center">
-  <h3>🎧 Vibe de Código</h3>
+  <h3>🎧 Listening</h3>
   
   <!-- Player Atual -->
   <a href="https://github.com/kittinan/spotify-github-profile">
