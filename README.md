@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>👋 Olá! Eu sou Euclides</h2>
+  <h2>Oi! Seja bem vindo ao meu Git 😁</h2>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2357F7&center=true&vCenter=true&width=450&lines=Fullstack+Developer;AI+Automation+%26+n8n;InfoSec+Enthusiast" alt="Typing SVG" />
