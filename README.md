@@ -50,7 +50,7 @@
   <h3>📫 Vamos conversar?</h3>
   <p>Disponível para projetos freelance integrando Web Apps e Automação de Processos.</p>
 
-  <a href="https://www.linkedin.com/in/euclides-santana-9982b9367/" target="_blank">
+  <a href="https://www.linkedin.com/in/euclides-santanadev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp;
