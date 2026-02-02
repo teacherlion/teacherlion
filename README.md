@@ -47,7 +47,7 @@
 <br/>
 
 <div align="center">
-  <h3>🎧 O que estou ouvindo enquanto codo</h3>
+  <h3>🎧 O que tenho escutado 🔊</h3>
   <a href="https://open.spotify.com/user/31rcu5vaxbcs5nggcntjd6q2r3hm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rcu5vaxbcs5nggcntjd6q2r3hm&count=4" alt="Spotify Recently Played" />
   </a>
