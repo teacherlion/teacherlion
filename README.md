@@ -14,36 +14,46 @@
 
 <br/>
 
-<!-- LINKS DE PROJETOS E PORTFOLIO -->
+<!-- LINKS DE PROJETOS E PORTFOLIO (ESTILO DARK MODE PREMIUM) -->
 <div align="center">
+  <!-- Botão Portfolio: Label Verde (Texto Preto) + Link Preto (Texto Branco) -->
   <a href="https://liondev.sbs" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-liondev.sbs-00E085?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=black" alt="Portfolio LionDev" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-LIONDEV.SBS-101010?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=00E085" alt="Portfolio LionDev" />
   </a>
   &nbsp;
+  <!-- Botão Company: Label Verde (Texto Preto) + Link Preto (Texto Branco) -->
   <a href="https://tempuscodeguard.com" target="_blank">
-    <img src="https://img.shields.io/badge/COMPANY-tempuscodeguard.com-00E085?style=for-the-badge&logo=fortinet&logoColor=black&labelColor=black" alt="Company Tempus" />
+    <img src="https://img.shields.io/badge/COMPANY-TEMPUSCODEGUARD.COM-101010?style=for-the-badge&logo=fortinet&logoColor=black&labelColor=00E085" alt="Company Tempus" />
   </a>
 </div>
 
 <br/>
 
-<!-- CONQUISTAS TÉCNICAS (BADGES DE QUALIDADE) -->
+<!-- CONQUISTAS TÉCNICAS (DESIGN LIMPO: Rótulo Escuro + Nota Colorida) -->
 <div align="center">
   <h3>🏆 Padrão de Engenharia & Qualidade</h3>
   <p>Métricas auditadas em produção (LionDev.sbs)</p>
   
+  <!-- Lighthouse: Fundo Preto, Nota Verde -->
   <a href="https://pagespeed.web.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Lighthouse_Performance-100%2F100-success?style=for-the-badge&logo=google-lighthouse&logoColor=white&color=00C853" alt="Lighthouse 100" />
+    <img src="https://img.shields.io/badge/LIGHTHOUSE_PERFORMANCE-100%2F100-00E085?style=for-the-badge&logo=google-lighthouse&logoColor=white&labelColor=101010" alt="Lighthouse 100" />
   </a>
+  
+  <!-- Mozilla: Fundo Preto, Nota Azul -->
   <a href="https://observatory.mozilla.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Mozilla_Security-Grade_A%2B-blue?style=for-the-badge&logo=mozilla&logoColor=white&color=3D5AFE" alt="Mozilla Observatory A+" />
+    <img src="https://img.shields.io/badge/MOZILLA_SECURITY-GRADE_A%2B-3D5AFE?style=for-the-badge&logo=mozilla&logoColor=white&labelColor=101010" alt="Mozilla Observatory A+" />
   </a>
+  
   <br/>
+
+  <!-- W3C: Fundo Preto, Nota Laranja -->
   <a href="https://validator.w3.org/" target="_blank">
-    <img src="https://img.shields.io/badge/W3C_Validation-100%25_Valid-orange?style=for-the-badge&logo=w3c&logoColor=white&color=FF9100" alt="W3C Valid" />
+    <img src="https://img.shields.io/badge/W3C_VALIDATION-100%25_VALID-FF9100?style=for-the-badge&logo=w3c&logoColor=white&labelColor=101010" alt="W3C Valid" />
   </a>
+  
+  <!-- Carbon: Fundo Preto, Nota Verde Clean -->
   <a href="https://www.websitecarbon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Eco_Friendly-Cleaner_than_97%25-green?style=for-the-badge&logo=leaf&logoColor=white&color=00E676" alt="Website Carbon" />
+    <img src="https://img.shields.io/badge/ECO_FRIENDLY-CLEANER_THAN_97%25-00E676?style=for-the-badge&logo=leaf&logoColor=white&labelColor=101010" alt="Website Carbon" />
   </a>
 </div>
 
@@ -60,9 +70,9 @@
   
   <br/><br/>
 
-  <!-- Badges para ferramentas que não tem no skillicons -->
+  <!-- Badges Personalizadas Tech -->
   <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Antigravity_IDE-000?style=for-the-badge&color=blue" height="30" />
+  <img src="https://img.shields.io/badge/Antigravity_IDE-101010?style=for-the-badge&color=2357F7" height="30" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" height="30" />
 
 </div>
