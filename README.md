@@ -94,7 +94,7 @@
 
   <!-- Histórico Recente -->
   <a href="https://open.spotify.com/user/31rcu5vaxbcs5nggcntjd6q2r3hm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rcu5vaxbcs5nggcntjd6q2r3hm&count=4" alt="Spotify Recently Played" />
+    <img src="![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31rcu5vaxbcs5nggcntjd6q2r3hm)" />
   </a>
 </div>
 
