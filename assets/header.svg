@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="220" viewBox="0 0 854 220" role="img" aria-label="Euclides Santana — Full-Stack Developer, Nuxt and Vue">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#00E085"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.45"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="854" height="220" fill="url(#bg)"/>
+  <rect width="854" height="220" fill="url(#fade)"/>
+
+  <!-- onda decorativa -->
+  <path d="M0 176 C 142 146, 285 206, 427 176 S 712 146, 854 176 L854 220 L0 220 Z"
+        fill="#000000" opacity="0.35"/>
+  <path d="M0 192 C 142 166, 285 218, 427 192 S 712 166, 854 192 L854 220 L0 220 Z"
+        fill="#000000" opacity="0.55"/>
+
+  <text x="427" y="104" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="60" font-weight="700" fill="#ffffff">Euclides Santana</text>
+
+  <text x="427" y="142" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="20" font-weight="500" fill="#ffffff" opacity="0.92">Full-Stack Developer | Nuxt &amp; Vue</text>
+</svg>

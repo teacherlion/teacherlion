@@ -1,5 +1,6 @@
-<!-- HEADER (Capsule Render, type=rect: o type=waving esta com bug na origem e gera path vazio) -->
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00E085&height=220&section=header&text=Euclides%20Santana&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Nuxt%20%26%20Vue&descSize=20&descAlignY=62&descAlign=50)
+<!-- HEADER: SVG proprio em assets/. O capsule-render servia o SVG com espaco antes
+     da tag raiz, o que impede o navegador de renderiza-lo como imagem. -->
+<img src="https://raw.githubusercontent.com/teacherlion/teacherlion/main/assets/header.svg" alt="Euclides Santana — Full-Stack Developer | Nuxt & Vue" width="100%" />
 
 <!-- TEXTO ANIMADO (Typing SVG - Verde Neon) -->
 <div align="center">
@@ -143,5 +144,5 @@ day to day: meetings, documentation and code review.
   </a>
 </div>
 
-<!-- RODAPE (Capsule Render, type=rect) -->
-![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:00E085,100:000000&height=100&section=footer)
+<!-- RODAPE: SVG proprio em assets/ -->
+<img src="https://raw.githubusercontent.com/teacherlion/teacherlion/main/assets/footer.svg" alt="" width="100%" />

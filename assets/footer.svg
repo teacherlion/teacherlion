@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="100" viewBox="0 0 854 100" role="img" aria-label="">
+  <defs>
+    <linearGradient id="bgf" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E085"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="854" height="100" fill="url(#bgf)"/>
+
+  <!-- onda decorativa, espelhada em relacao ao header -->
+  <path d="M0 0 L854 0 L854 34 C 712 62, 569 8, 427 34 S 142 62, 0 34 Z"
+        fill="#0d1117" opacity="0.55"/>
+  <path d="M0 0 L854 0 L854 18 C 712 46, 569 -8, 427 18 S 142 46, 0 18 Z"
+        fill="#0d1117" opacity="0.35"/>
+</svg>
